@@ -1,1 +1,27 @@
 /* Add CSS Styling */
+
+.odd
+{
+background-color: #F2B9B1;
+font-family: verdana, "DejaVu Sans", sans-serif; 
+}
+
+#numTwo
+{
+color: blue;
+font-size: 36px
+}
+
+.fontsize
+{
+font-size: 24px;
+}
+
+#numFour
+{
+background-color: green;
+font-weight: bold;
+}
+
+
+
